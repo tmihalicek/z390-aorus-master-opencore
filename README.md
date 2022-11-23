@@ -10,5 +10,5 @@
 - 1 x Samsung SSD 980 PRO 1TB
 - 1 x Samsung SSD 980 PRO 500GB
 - 2 x WDC WD20EFRX-68AX9N0 2TB
-- 1 x Radeon™ RX80
+- 1 x Radeon™ RX580
 

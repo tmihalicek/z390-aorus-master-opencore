@@ -2,6 +2,10 @@
 
 ![About This Mac](stuff/about.png)
 
+## My Software
+- OpenCore: 0.8.6
+- macOS: 12.6.2 (Monterey)
+
 ## My Hardware
 - Gigabyte Z390 Aorus Master (Bios version: F11)
 - Intel i7-8700K (8) @ 3.70GHz (Coffee Lake)
